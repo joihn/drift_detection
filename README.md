@@ -10,6 +10,7 @@ In this work, 3 neural nets methods were explored:
 - Boostrap Method
 - Lower-Upper bound estimation (LUBE)
 - LSTM Reconstruction error method
+
 Please refer to the report for more information.
 
 The implementation for the best resulting method (Bootstrap) was made public in this repo.
